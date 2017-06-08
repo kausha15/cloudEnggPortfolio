@@ -1,0 +1,23 @@
+.group {
+    zoom: 1;
+    /*max-width: 1110px;*/
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+header[role="banner"] .group {
+    position: relative;
+    /*max-width: 1080px;*/
+    margin: 0 auto;
+    padding: 20px 20px 0 20px;
+}
+
+ul.navbar-nav li a{
+    color: #000;
+}
+
+.example6 .navbar-brand{
+    background: url('../img/ap.png') center / contain no-repeat;
+    width: 200px;
+}
